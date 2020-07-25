@@ -8,7 +8,7 @@
  </p>
 
 
-<h1 align="justify"> Tecnologia </h1>Tecnologia
+<h1 align="justify"> Tecnologia </h1>
 
 - React
 - Material-Ui
